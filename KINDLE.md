@@ -1,6 +1,6 @@
 # Kindle
 
-This method explains how to obtain free pdf's of books which are available as kindle editions on amazon. This method is relatively complex and long but considering you could get 90% of your books for free --potentially saving you 1000+$--, it is definitely worth learning. 
+This method explains how to obtain free pdf's of books which are available as kindle editions on amazon. This method is relatively complex and long but considering you could get 90% of your books for free --potentially saving you 1000+$-- , it is definitely worth learning. 
 
 Required:
 
