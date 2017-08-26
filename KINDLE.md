@@ -56,4 +56,20 @@ Click on return for refund and you'll have your money back in 3-5 days (It happe
 
 # Converting to pdf
 
-brb
+You'll need two softwares. 
+
+### Calibre
+
+Download [here](https://calibre-ebook.com/download)
+
+### Ultimate-DRM-removal-tool
+
+Download Windows Version [here](https://mega.nz/#!wnQWWBBC!ho2E8LRw-G5866rVZj15xv4So26GL9r1FL9mBrlI6oE)
+
+Download MacOS Version [here](https://mega.nz/#!9uQShJrR!mkQYCpmWMTTaydXReh0OY8dE8VWkKQ5kSHBNwm9oK18)
+
+(this tool says it has a 30 day trial period, but can just remove and reinstall it)
+
+Now there are a lot of messy long ways to convert to pdf, I'll be using the most reliable and secure way to do it . 
+
+
