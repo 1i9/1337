@@ -6,7 +6,7 @@ Required:
 
 1)A computer/laptop with Windows/MacOS
 
-2)Kindle 1.17 for Mac or Kindle 1.17 for Windows. Download your version [here](https://mega.nz/#F!I3glDIJQ!MAhFKZFtyyTLeGKbCDK7cg)
+2)Kindle 1.17 for Mac or Kindle 1.17 for Windows. Download your version [here](https://mega.nz/#F!I3glDIJQ!MAhFKZFtyyTLeGKbCDK7cg). If you already have a kindle app, delete it and download the 1.17 version specificially. 
 
 3)An amazon account. 
 
