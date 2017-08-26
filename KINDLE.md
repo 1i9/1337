@@ -70,6 +70,25 @@ Download MacOS Version [here](https://mega.nz/#!9uQShJrR!mkQYCpmWMTTaydXReh0OY8d
 
 (this tool says it has a 30 day trial period, but can just remove and reinstall it)
 
+------------------------------------------------
+
 Now there are a lot of messy long ways to convert to pdf, I'll be using the most reliable and secure way to do it . 
 
+Launch Ultimate-DRM-removal-tool, drag the .azw file and hit convert now. After it's done converting (which less than a minute), click on open on the left of convert now. You'll find the .azw3 file. 
+
+![](https://i.imgur.com/RVKwwH6.png)
+
+Now launch calibre and drag the .azw3 file into the app. 
+
+![](https://i.imgur.com/Y8vNSSO.png)
+
+Click on the book and click on "convert books>convert individually" on the top left.
+
+![](https://i.imgur.com/qep2FPQ.jpg) 
+
+Choose pdf(or any other format you prefer) on the corner right. The conversion process should start. Once done, right click on the book>open containing folder. There should be a pdf file of the book. 
+
+This is a lenghty process, I'm working on a script which would automate the whole thing. Will update this guide once done. 
+
+#### Do consider emailing the book you converted to pdf at 1i9@protonmail.com so we can add it to the mega ebooks folder. 
 
