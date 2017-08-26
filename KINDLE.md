@@ -50,7 +50,7 @@ Now before you figure out how to convert it to pdf, I highly recommend you start
 
 ![](https://i.imgur.com/rrgxTGJ.png)
 
-Click on return for refund and you'll have your money back in 3-5 days (It happens instantly )
+Click on return for refund and you'll have your money back in 3-5 days (It happens instantly most of the time)
 
 ------------------------------------------------
 
