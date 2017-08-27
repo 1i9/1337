@@ -20,6 +20,6 @@ RULES:
 >Look if there's a kindle edition of the book you're looking for on amazon. If there is, look at this guide (http://bit.do/kindlepdf) to learn a way to get your hands on it for free. (leave a comment on this post if you are having trouble in this method, admins/mods will help you out)
 
 * SIXTH
->If the world has failed you so far, just make a post here including the tag [request] in the beginning. Include book name, author, edition, isbn number etc. 
+>If the world has failed you so far, just make a post here including the tag [request] in the beginning. Include book name, author, edition, isbn number etc. Comment down below too. 
 
 3) Don't be a dick. 
