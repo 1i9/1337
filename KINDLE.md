@@ -42,15 +42,9 @@ To find the location go to preference and you should find something like this.
 
 If you can't seem to find that folder just change the folder location to desktop or other location. It should copy the ebooks. 
 
-You should find a .azw/.azw1/.azw3/.azw4 file. Copy that file and paste it in a different folder. 
-
+You should find a .azw/.azw1/.azw3/.azw4 file. 
 ![](https://i.imgur.com/lpsAgNi.png)
 
-Now before you figure out how to convert it to pdf, I highly recommend you start the refund process. Go to your amazon account>Your content and devices
-
-![](https://i.imgur.com/rrgxTGJ.png)
-
-Click on return for refund and you'll have your money back in 3-5 days (It happens instantly most of the time)
 
 ------------------------------------------------
 
@@ -87,6 +81,16 @@ Click on the book and click on "convert books>convert individually" on the top l
 ![](https://i.imgur.com/qep2FPQ.jpg) 
 
 Choose pdf(or any other format you prefer) on the corner right. The conversion process should start. Once done, right click on the book>open containing folder. There should be a pdf file of the book. 
+
+# Getting a refund 
+
+Go to your amazon account>Your content and devices
+
+![](https://i.imgur.com/rrgxTGJ.png)
+
+Click on return for refund and you'll have your money back in 3-5 days (It happens instantly most of the time).
+
+--------------------------------------------------
 
 This is a lenghty process, I'm working on a script which would automate the whole thing. Will update this guide once done. 
 
