@@ -1,6 +1,6 @@
 # Kindle
 
-This method explains how to obtain free pdf's of books which are available as kindle editions on amazon. This method is relatively complex and long but considering you could get 90% of your books for free --potentially saving you 1000+$--, it is definitely worth learning. 
+This method explains how to obtain free pdf's of books which are available as kindle editions on amazon. This method is relatively complex and long but considering you could get 90% of your books for free --potentially saving you 1000+$-- , it is definitely worth learning. 
 
 Required:
 
@@ -42,15 +42,9 @@ To find the location go to preference and you should find something like this.
 
 If you can't seem to find that folder just change the folder location to desktop or other location. It should copy the ebooks. 
 
-You should find a .azw/.azw1/.azw3/.azw4 file. Copy that file and paste it in a different folder. 
-
+You should find a .azw/.azw1/.azw3/.azw4 file. 
 ![](https://i.imgur.com/lpsAgNi.png)
 
-Now before you figure out how to convert it to pdf, I highly recommend you start the refund process. Go to your amazon account>Your content and devices
-
-![](https://i.imgur.com/rrgxTGJ.png)
-
-Click on return for refund and you'll have your money back in 3-5 days (It happens instantly most of the time)
 
 ------------------------------------------------
 
@@ -70,6 +64,35 @@ Download MacOS Version [here](https://mega.nz/#!9uQShJrR!mkQYCpmWMTTaydXReh0OY8d
 
 (this tool says it has a 30 day trial period, but can just remove and reinstall it)
 
+------------------------------------------------
+
 Now there are a lot of messy long ways to convert to pdf, I'll be using the most reliable and secure way to do it . 
 
+Launch Ultimate-DRM-removal-tool, drag the .azw file and hit convert now. After it's done converting (which less than a minute), click on open on the left of convert now. You'll find the .azw3 file. 
+
+![](https://i.imgur.com/RVKwwH6.png)
+
+Now launch calibre and drag the .azw3 file into the app. 
+
+![](https://i.imgur.com/Y8vNSSO.png)
+
+Click on the book and click on "convert books>convert individually" on the top left.
+
+![](https://i.imgur.com/qep2FPQ.jpg) 
+
+Choose pdf(or any other format you prefer) on the corner right. The conversion process should start. Once done, right click on the book>open containing folder. There should be a pdf file of the book. 
+
+# Getting a refund 
+
+Go to your amazon account>Your content and devices
+
+![](https://i.imgur.com/rrgxTGJ.png)
+
+Click on return for refund and you'll have your money back in 3-5 days (It happens instantly most of the time).
+
+--------------------------------------------------
+
+This is a lenghty process, I'm working on a script which would automate the whole thing. Will update this guide once done. 
+
+#### Do consider emailing the book you converted to pdf at 1i9@protonmail.com so we can add it to the mega ebooks folder. 
 
