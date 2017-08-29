@@ -1,7 +1,7 @@
 ### General public ebook/textbook resources
 | Links | Comment 1 | Comment 2 |
 |---|---|---|
-| <h2>[Search Engine 1](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers)</h2> | <h2>[Search Engine 2](https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco)</h2> | Engine 1 is more up-to-date |
+| <h2>[Engine 1](https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca)</h2>| <h2>[Search Engine 2](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers)</h2> | <h2>[Search Engine 3](https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco)</h2> |
 | ` | . | ' |
 | http://gen.lib.rus.ec | (Use a proxy if you are having issues connecting) | use the ISBN for more accuracy |
 | http://en.bookfi.org/ |   |   |
