@@ -1,8 +1,11 @@
 ### General public ebook/textbook resources
-| Links | Comment 1 | Comment 2 |
+| Some | Noteworthy | Links |
 |---|---|---|
-| <h2>[Engine 1](https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca)</h2>| <h2>[Search Engine 2](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers)</h2> | <h2>[Search Engine 3](https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco)</h2> |
-| ` | . | ' |
+| <h2>[Search Engine 1](https://cse.google.com/cse/publicurl?cx=003753031376654422446:szjag5vbefo)</h2> | <h2>[OLD] [Engine 2](https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca)</h2>| <h2>[OLD] [Search Engine 3](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers)</h2> |
+| <h2>[OLD] [Search Engine 4](https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco)</h2> | [Search Engine 5](http://b-ok.org/) |   |
+|   |   |   |
+| Link | Comment 1 | Comment 2 |
+|---|---|---|
 | http://gen.lib.rus.ec | (Use a proxy if you are having issues connecting) | use the ISBN for more accuracy |
 | http://en.bookfi.org/ |   |   |
 | http://oll.libertyfund.org/index.php?option=com_content&task=view&id=380 |   |   |
