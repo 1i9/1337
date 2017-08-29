@@ -8,5 +8,9 @@
 #### Want to help out pirating book for other people? Here's what we need (from requests):    
 > https://goo.gl/Ppe7Em
 
-Want to submit a PDF here to help others?   
+#### Want to submit a PDF here to help others?   
 Just send an email over to my email: ![alt text](https://github.com/wiiliam/SJSU-PDF-Project/raw/master/email-address-image.gif "My Email")
+
+
+# WAIT, WHAT HAPPENED TO THE LINK WITH ALL THE BOOK YOU GUYS HAD???
+> Chill dude, it's here: http://bit.do/sjsupdf
