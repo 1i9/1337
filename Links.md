@@ -1,9 +1,12 @@
-### General public ebook/textbook resources
-| Some | Noteworthy | Links |
+### General public ebook/textbook resources  
+
+##### Search engines  
+| Enter | Title | Here |
 |---|---|---|
-| <h2>[Search Engine 1](https://cse.google.com/cse/publicurl?cx=003753031376654422446:szjag5vbefo)</h2> | <h2>[OLD] [Engine 2](https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca)</h2>| <h2>[OLD] [Search Engine 3](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers)</h2> |
-| <h2>[OLD] [Search Engine 4](https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco)</h2> | [Search Engine 5](http://b-ok.org/) |   |
-|   |   |   |
+| [Search Engine 1](https://cse.google.com/cse/publicurl?cx=003753031376654422446:szjag5vbefo) | [OLD] [Engine 2](https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca)| [OLD] [Search Engine 3](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) |
+| [OLD] [Search Engine 4](https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) | [Search Engine 5](http://b-ok.org/) |   |
+
+##### MOAR LINKS :D
 | Link | Comment 1 | Comment 2 |
 |---|---|---|
 | http://gen.lib.rus.ec | (Use a proxy if you are having issues connecting) | use the ISBN for more accuracy |
