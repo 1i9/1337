@@ -1,8 +1,14 @@
-### General public ebook/textbook resources
-| Links | Comment 1 | Comment 2 |
+### General public ebook/textbook resources  
+
+##### Search engines  
+| Enter | Title | Here |
 |---|---|---|
-| https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco | A custom search for the links below |   |
-|   |   |   |
+| [Search Engine 1](https://cse.google.com/cse/publicurl?cx=003753031376654422446:szjag5vbefo) | [OLD] [Engine 2](https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca)| [OLD] [Search Engine 3](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) |
+| [OLD] [Search Engine 4](https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) | [Search Engine 5](http://b-ok.org/) |   |
+
+##### MOAR LINKS :D
+| Link | Comment 1 | Comment 2 |
+|---|---|---|
 | http://gen.lib.rus.ec | (Use a proxy if you are having issues connecting) | use the ISBN for more accuracy |
 | http://en.bookfi.org/ |   |   |
 | http://oll.libertyfund.org/index.php?option=com_content&task=view&id=380 |   |   |
@@ -26,8 +32,3 @@
 | http://academictorrents.com | A torrent site |   |
 |   |   |   |
 |   |   |   |
-
-### Here's a custom search engine for ebooks:
-
-http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco
-
