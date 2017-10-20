@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+	font-variant:small-caps;
+}
+
+#wrapper{
+	width:50em;
+	margin:1em auto;/*distance from top and bottom; auto sides*/
+}
+
+header{
+	height:10em;
+	width:50em;
+	background-color:#eeeeec;
+	border-radius:10px;
+}
+
+header img {
+  margin:auto 37%;
+  width:30%;
+  height:100%;
+}
+
+nav{
+	height:3em;
+	background-color:white;
+	margin-top:1em;/*adds distance from header*/
+	width: 100%;
+	display: table;/*makes the nav act like a table</table>*/
+	border-collapse: collapse;
+	border: none;
+	line-height:3em;
+	border-radius:10px;
+}
+
+nav ul {
+display: table-row;/*makes the ul act like a table-row <tr>*/
+text-align:center;
+background-color:purple;
+}
+
+nav li {
+display: table-cell;/*makes the li act like a table-cell<td>*/
+margin: 0;
+background-color:#babdb6;/*will take precedence over the background-color of the <ul>*/
+border-radius:10px;
+}
+
+nav a{
+	color:#000;
+	text-decoration:none;
+	padding:1em;
+}
+
+nav a:link{
+	color:#ce5c00;
+	text-decoration:none;
+}
+nav a:visited{
+	color:#555753;
+	text-decoration:none;
+}
+
+nav a:hover{
+	text-decoration:underline;
+	color:#a40000;
+	background-color:#fff;
+}
+
+nav a:active{
+	color:#000000;
+	text-decoration:none;
+}
+	
+
+main{
+	background-color:#d3d7cf;
+	min-height:500px;
+	margin-top:1em;/*adds distance from nav*/
+	width:50em;
+	padding:2em;
+	box-sizing:border-box;
+	border-radius:10px;
+	font-variant:Normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+main h3{
+  font-variant:small-caps;
+  font-size:32px;
+}
+
+footer{
+	height:4em;
+	width:100%;
+	background-color:#babdb6;
+	margin-top:1em;/*adds distance from main*/
+	border-radius:5px;
+	font-size:12px;
+}
+footer p{
+  padding:1em;
+}
+footer img{
+	height:15px;
+	width:130px;
+/*	margin-top:0.5em;*/
+	padding:3px;
+}
+
+img {
+  width:100%;
+  height:100%;
+}
+
+main li {
+  font-variant:Normal;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+
+
+
